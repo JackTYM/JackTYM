@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackTYM
 - 👀 I’m interested in Python, Java, and Lua
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything you might want me for :)
 - 📫 How to reach me via telegram: @JackTYM
 
