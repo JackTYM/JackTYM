@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JackTYM
-- 👀 I’m interested in Python, Java, and GoLang
-- 🌱 I’m currently learning Java and GoLang
+- 👀 I’m interested in C++, JavaScript, and ClickHouse
+- 🌱 I’m currently learning Clickhouse and C++
 - 💞️ I’m looking to collaborate on anything you might want me for :)
-- 📫 How to reach me via telegram: @JackTYM or discord: JackTYM#9174
+- 📫 How to reach me via telegram: @JackTYM or discord: JackTYM
 
 <!---
 JackTYM/JackTYM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
