@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JackTYM
-- 💞️ I’m currently CoFounding [Dribble360](https://dribble360.com)!
+- 💞️ I’m currently looking for work!
 - 📫 How to reach me via telegram: @JackTYM or discord: JackTYM
